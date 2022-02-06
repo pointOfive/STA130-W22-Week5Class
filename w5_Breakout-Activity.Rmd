@@ -14,7 +14,7 @@ Questions 1 to 7 inclusive are about the same investigation. For these questions
 
 Questions 8 to 11 are about a different investigation, using the `gratititude_v2.csv` dataset.
 
-Please answer your Questions on the Quercus Practice Quiz located [here]().  
+Please answer your Questions on the Quercus Practice Quiz located [here](https://q.utoronto.ca/courses/253019/quizzes/244032).  
 
 
 # Question 1
